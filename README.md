@@ -9,4 +9,4 @@ et juste à l'instant j'ai fait mon premier pull
 
 La modification faite en remote 
 
-Un texte qui n'existe que sur cette branche
+NOus allons faire un conflit de branche
